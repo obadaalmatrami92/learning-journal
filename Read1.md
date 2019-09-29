@@ -1,4 +1,4 @@
-# Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform <h1>
+# Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform #
 ## Hello everyone today i want to talk about Markdown  in gethub we can do a lot of thiings on markdown 
   like editing Text and edit fonts family and add Url,images 
 it`s so nice to learn programming <h2>
