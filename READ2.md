@@ -33,3 +33,7 @@ I think you’ll find that there is no syntax highlighting, no themes and
 no extensions. While you most certainly can use them to make a
 website, I think the real question is, “Should you?” They’re not the
 most feature rich text editors available.
+ 
+[READ2.md](TExtEditor)
+[Read1.md](MArkdown)
+[Readd3.md](HOme)
