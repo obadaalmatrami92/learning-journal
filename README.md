@@ -10,9 +10,9 @@ In a growth mindset, people believe that their most basic abilities can be devel
 In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. 
 This view creates a love of learning and a resilience that is essential for great accomplishment.
 
-</br>TOpics                   Links
-</br>MArkDown                 Read1.md
-</br>TextEditor               READ2.md
++  TOpics                   Links
++  MArkDown                 Read1.md
++  TextEditor               READ2.md
 
 
 
