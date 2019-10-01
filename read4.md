@@ -12,6 +12,8 @@ helps visitors achieve their goals
  Design tips to help you create more attractive and
 professional sites.
 
+
+
 the Site For :
 Every website should be designed for the
 target audience—not just for yourself or the
